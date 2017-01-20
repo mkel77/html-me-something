@@ -32,3 +32,6 @@ body {  font-family: Century Gothic, Georgia, Times, serif;
 main { padding: 20px 20px 20px 20px; }
 
 td { text-align: center; }
+
+.friend {font-size: 25px;
+color: #59262D;}
